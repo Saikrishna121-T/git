@@ -19,8 +19,8 @@
 
 <p>This is new stash line</p>
 <p>This is diff line</p>
-
+=======
 <p>This is dev1 line</p>
 
 <p>This is dev2 line</p>
-1
+>>>>>>> dev1
